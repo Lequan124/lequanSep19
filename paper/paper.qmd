@@ -4,7 +4,7 @@ subtitle: "My subtitle if needed"
 author: 
   - Lequan Li
 thanks: "Code and data are available at: LINK."
-date: today
+date: 19 September 2024
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 format: pdf
